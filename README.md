@@ -1,14 +1,3 @@
-# JavaScript Chatbot with OpenAI API
-
-![image](https://github.com/SanojAhamed/Chatbot-using-API/assets/97176600/aa6404a3-aa6e-4a22-9190-4ee83c9a392e)
-
-
-## Demonstration Video
-
-
-https://github.com/SanojAhamed/Chatbot-using-API/assets/97176600/69fd4da7-c030-4d7e-be76-8c7a1fc6bb38
-
-
 
 Welcome to the JavaScript Chatbot with the OpenAI API repository! This project showcases a dynamic and interactive chatbot implemented using HTML, CSS, and JavaScript. Leveraging the power of the OpenAI API, the chatbot engages in natural language conversations with users.
 
@@ -37,9 +26,3 @@ To experience the chatbot, follow these steps:
 - https://platform.openai.com/: The Smooth integration with the OpenAI API, enabling powerful natural language processing capabilities.
 
 - Google Fonts & icons: The project employs Google Fonts for typography, enhancing the visual appeal of the chatbot interface.
-
-## Contributing
-
-Contributions to this project are welcome! Whether you want to improve the user interface, enhance functionality, or fix issues, your input is valuable. If you encounter bugs or have ideas for new features, please open an issue in this repository.
-
-Elevate your applications with a JavaScript Chatbot integrated with the OpenAI API. Engage in dynamic conversations using an intuitive interface built with HTML, CSS, and JavaScript. Feel free to explore, experiment, and integrate it into your own projects. For questions or suggestions, don't hesitate to reach out!
